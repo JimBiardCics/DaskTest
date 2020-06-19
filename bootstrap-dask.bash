@@ -48,6 +48,7 @@ tornado \
 numpy \
 netCDF4 \
 xarray \
+zarr \
 bokeh=2.0 \
 notebook \
 ipywidgets \
